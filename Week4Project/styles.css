@@ -1,0 +1,32 @@
+/* 
+    Name: Ali Temlali
+    Date: 2025-09-17
+    Week 4 Project: Cozy Cafe Website
+*/
+
+body {
+    background-color: #F5EFE6;
+    color: #4B3832;
+}
+
+header {
+    background-color: #8B5E3B;
+    color: #FFFFFF;
+}
+
+nav {
+    background-color: #D4A373;
+}
+
+nav a {
+	text-decoration: underline;
+}
+
+main {
+    background-color: #FFFFFF;
+}
+
+footer {
+    background-color: #8B5E3B;
+    color: #FFFFFF;
+}
